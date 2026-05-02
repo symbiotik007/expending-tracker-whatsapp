@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# App
+.env
+data/
+server/auth/
+server/node_modules/
+server/dist/
