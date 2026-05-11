@@ -9,8 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+=======
+    "claude": "^0.1.1",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.14.2",
+    "recharts": "^3.8.1"
+>>>>>>> 5b1425e048cadd57596651cd70948134f5ca3968
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
